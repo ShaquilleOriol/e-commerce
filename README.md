@@ -247,3 +247,6 @@ You are required to submit BOTH of the following for review:
 ---
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
 
+![](./Assets/screenshot1.png) 
+
+![](./Assets/screenshot2.png) 
